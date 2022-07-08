@@ -6,8 +6,8 @@ on:
     - deploy
 
 env:
-  UNIQUE_APP_NAME: orleanscart
-  AZURE_RESOURCE_GROUP_NAME: orleans-resourcegroup
+  UNIQUE_APP_NAME: bradygcart
+  AZURE_RESOURCE_GROUP_NAME: bradygcart
   AZURE_RESOURCE_GROUP_LOCATION: eastus
 
 jobs:
