@@ -6,7 +6,7 @@ on:
     - deploy
 
 env:
-  UNIQUE_APP_NAME: orleanscart
+  UNIQUE_APP_NAME: orleanscartakv
   AZURE_RESOURCE_GROUP_NAME: orleans-resourcegroup
   AZURE_RESOURCE_GROUP_LOCATION: eastus
 
